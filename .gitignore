@@ -1,0 +1,5 @@
+.Rproj.user
+*.Rproj
+fitbit_token.rds
+.Rhistory
+R/.DS_Store

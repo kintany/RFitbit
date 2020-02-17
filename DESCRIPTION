@@ -1,0 +1,13 @@
+Package: RFitbit
+Title: What the Package Does (One Line, Title Case)
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Svetlana",
+           family = "Vinogradova",
+           role = c("aut", "cre"),
+           email = "kintany@gmail.com",
+           comment = c(ORCID = "0000-0002-5419-8812"))
+Description: What the package does (one paragraph).
+License: What license it uses
+Encoding: UTF-8
+LazyData: true
