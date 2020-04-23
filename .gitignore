@@ -3,3 +3,6 @@
 fitbit_token.rds
 .Rhistory
 R/.DS_Store
+.DS_Store
+R/other.Rmd
+img/*
